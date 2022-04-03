@@ -1,0 +1,20 @@
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Debug\EaReplace.Properties.Resources.resources
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Debug\EaReplace.csproj.GenerateResource.cache
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Debug\EaReplace.csproj.CoreCompileInputs.cache
+C:\Users\takay\source\repos\EaReplace\EaReplace\bin\Debug\EaReplace.exe.config
+C:\Users\takay\source\repos\EaReplace\EaReplace\bin\Debug\EaReplace.exe
+C:\Users\takay\source\repos\EaReplace\EaReplace\bin\Debug\EaReplace.pdb
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Debug\EaReplace.exe
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Debug\EaReplace.pdb
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Debug\EaReplace.Form1.resources
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Debug\EaReplace.csprojAssemblyReference.cache
+C:\Users\takay\OneDrive\Desktop\MetaTrader Developer Tools\Source\EaReplace\EaReplace\bin\Debug\EaReplace.exe.config
+C:\Users\takay\OneDrive\Desktop\MetaTrader Developer Tools\Source\EaReplace\EaReplace\bin\Debug\EaReplace.exe
+C:\Users\takay\OneDrive\Desktop\MetaTrader Developer Tools\Source\EaReplace\EaReplace\bin\Debug\EaReplace.pdb
+C:\Users\takay\OneDrive\Desktop\MetaTrader Developer Tools\Source\EaReplace\EaReplace\obj\Debug\EaReplace.csproj.AssemblyReference.cache
+C:\Users\takay\OneDrive\Desktop\MetaTrader Developer Tools\Source\EaReplace\EaReplace\obj\Debug\EaReplace.csproj.GenerateResource.cache
+C:\Users\takay\OneDrive\Desktop\MetaTrader Developer Tools\Source\EaReplace\EaReplace\obj\Debug\EaReplace.csproj.CoreCompileInputs.cache
+C:\Users\takay\OneDrive\Desktop\MetaTrader Developer Tools\Source\EaReplace\EaReplace\obj\Debug\EaReplace.exe
+C:\Users\takay\OneDrive\Desktop\MetaTrader Developer Tools\Source\EaReplace\EaReplace\obj\Debug\EaReplace.pdb
+C:\Users\takay\OneDrive\Desktop\MetaTrader Developer Tools\Source\EaReplace\EaReplace\obj\Debug\MetaTraderDeveloperTools.Form1.resources
+C:\Users\takay\OneDrive\Desktop\MetaTrader Developer Tools\Source\EaReplace\EaReplace\obj\Debug\MetaTraderDeveloperTools.Properties.Resources.resources

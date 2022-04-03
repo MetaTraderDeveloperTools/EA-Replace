@@ -1,0 +1,10 @@
+C:\Users\takay\source\repos\EaReplace\EaReplace\bin\Release\EaReplace.exe.config
+C:\Users\takay\source\repos\EaReplace\EaReplace\bin\Release\EaReplace.exe
+C:\Users\takay\source\repos\EaReplace\EaReplace\bin\Release\EaReplace.pdb
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Release\EaReplace.Form1.resources
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Release\EaReplace.Properties.Resources.resources
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Release\EaReplace.csproj.GenerateResource.cache
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Release\EaReplace.csproj.CoreCompileInputs.cache
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Release\EaReplace.exe
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Release\EaReplace.pdb
+C:\Users\takay\source\repos\EaReplace\EaReplace\obj\Release\EaReplace.csprojAssemblyReference.cache
